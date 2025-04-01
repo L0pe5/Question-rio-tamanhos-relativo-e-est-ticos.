@@ -1,9 +1,6 @@
 # Question-rio-tamanhos-relativo-e-est-ticos.
 Use um html para cada parte das respostas.
 
-segue o video para ajudar a entender sobre tamanhos 
-https://www.youtube.com/watch?v=oP5UaB-yzf0
-
 
 
 Parte 1: Conceitos Gerais
